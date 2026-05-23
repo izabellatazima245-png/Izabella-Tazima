@@ -5,9 +5,3 @@
 ### Main Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
-👩🏻‍💻 About Me
-✨ My name is Izabella Tazima
-🇧🇷 I live in Brazil
-📚 Currently studying Cientita de dados
-🎓 Graduated in Gestão de tecnologia da informaçãp
-🏢 Working at a multinational company
