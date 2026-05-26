@@ -1,8 +1,6 @@
 <div align="left">
-  <img src="[https://github.com/izabellatazima245-png/M-dulo-1.git](https://github.com/izabellatazima245-png/M-dulo-1/blob/main/Cabeçalho%20para%20twitter%20streamer%20neon%20moderno%20azul%20e%20roxo.png)" width="100%" />
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Izabella+Tazima;Tenho+27+anos;Sou+do+Brazil;Data+Scientist;seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
+<img width="1500" height="500" alt="Cabeçalho para twitter streamer neon moderno azul e roxo" src="https://github.com/user-attachments/assets/7d0366e4-45e4-400f-a666-635ee29db3ea" />
 
 ## Sobre mim
 Profissional da área de T.I em busca de conhecimento mais aprofundado em Ciência de Dados. Meu objetivo é buscar formas de apresentar dados para a área de T.I, seja em suporte técnico ou em áreas de operações grandes (CDs).
